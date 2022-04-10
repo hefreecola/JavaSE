@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/firstoverview/Hello.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/firstoverview/img/命令行操作1.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/firstoverview/img/命令行操作2.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/firstoverview/img/命令行操作3.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter1/BinaryTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter1/CharacterDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter1/IdentifierTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter1/StringTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter1/VariableTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter1/VariableTest1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter1/VariableTest2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter1/VariableTest3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter1/VariableTest4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter2/AriExer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter2/AriTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter2/BitTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter2/CompareTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter2/IfTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter2/LogicTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter2/ReviewTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter2/SanYuanTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter2/SetValueTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter3/ForTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter3/ForTest1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter3/IfExer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter3/IfExer1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter3/IfTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter3/IfTest2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter3/ScannerTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter3/SwitchCaseExer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter3/SwitchCaseTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter3/SwitchCaseTest1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter3/SwitchCaseTest2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter4/BreakContinueTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter4/DoWhileTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter4/ForForTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter4/ForTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter4/ForWhileTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter4/NineNineTable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter4/PrimeNumberTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter4/PrimeNumberTest1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter4/PrimeNumberTest2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter4/ReviewTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hmz/src/secondbase/chapter4/WhileTest.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
